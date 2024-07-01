@@ -1,0 +1,14 @@
+D:\.NET dorslar\myproject\bin\Debug\net8.0\myproject.exe
+D:\.NET dorslar\myproject\bin\Debug\net8.0\myproject.deps.json
+D:\.NET dorslar\myproject\bin\Debug\net8.0\myproject.runtimeconfig.json
+D:\.NET dorslar\myproject\bin\Debug\net8.0\myproject.dll
+D:\.NET dorslar\myproject\bin\Debug\net8.0\myproject.pdb
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.AssemblyInfoInputs.cache
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.AssemblyInfo.cs
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.csproj.CoreCompileInputs.cache
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.dll
+D:\.NET dorslar\myproject\obj\Debug\net8.0\refint\myproject.dll
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.pdb
+D:\.NET dorslar\myproject\obj\Debug\net8.0\myproject.genruntimeconfig.cache
+D:\.NET dorslar\myproject\obj\Debug\net8.0\ref\myproject.dll
