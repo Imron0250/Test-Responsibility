@@ -11,6 +11,7 @@ namespace MyProject
             
             Console.WriteLine("Hello, World!");
             Console.Write("How old are you");
+            Console.ReadLine();
 
         }
 
